@@ -13,5 +13,5 @@ echo Helo World
 # CYAN -36
 # \e[0m - This is use to disable the color
 
-echo -e "e\[31m This is RED Color \e[0m"
-echo -e "e\[33m This is YELLOW Color \e[0m"
+echo -e "\e[31m This is RED Color \e[0m"
+echo -e "\e[33m This is YELLOW Color \e[0m"
